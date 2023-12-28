@@ -108,7 +108,7 @@
 &kp TAB           &kp Q    &lt 2 W  &hm LEFT_ALT E     &kp R           &kp T                                                                                                       &kp Y   &hm RGUI U  &hm RIGHT_GUI I  &hm RIGHT_CONTROL O  &kp P               &kp MINUS
 &kp LEFT_CONTROL  &kp A    &lt 1 S  &kp D              &kp F           &hm LEFT_CONTROL G                                                                                          &kp H   &lt 1 J     &kp K            &kp L                &hm RIGHT_ALT SEMI  &kp ENTER
 &kp LEFT_SHIFT    &kp Z    &kp X    &kp C              &kp V           &kp B               &kp LA(LSHFT)   &kp LC(LSHFT)  &kp LC(LALT)  &kp LGUI  &kp EQUAL         &kp BACKSLASH  &kp N   &lt 1 M     &kp COMMA        &kp DOT              &kp FSLH            &kp PG_UP
-&mo 1             &kp F11  &kp F12  &hm LEFT_GUI LEFT  &hm LALT RIGHT                      &kp LEFT_SHIFT  &kp LA(C)      &kp LA(V)     &kp RALT  &kp SINGLE_QUOTE  &kp SPACE              &kp UP      &kp DOWN         &kp LBKT             &kp RBKT            &kp PG_DN
+&magic 2 0        &kp F11  &kp F12  &hm LEFT_GUI LEFT  &hm LALT RIGHT                      &kp LEFT_SHIFT  &kp LA(C)      &kp LA(V)     &kp RALT  &kp SINGLE_QUOTE  &kp SPACE              &kp UP      &kp DOWN         &kp LBKT             &kp RBKT            &kp PG_DN
             >;
         };
 
